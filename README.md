@@ -1,0 +1,1 @@
+# navarra-skills-2025
