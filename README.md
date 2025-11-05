@@ -6,10 +6,9 @@ Queremos que sepas que esta prueba no está pensada solo para evaluarte. No espe
 
 Lo que si que te pedimos es que el código que utilices lo entiendas y seas capaz de explicarlo.
 
-Hemos desarrollado la prueba completa para que:
+Te hemos dejado una base por la que puedes empezar a construir el proyecto, pero tienes total libertad para editar ficheros, crear nuevos, borrar... ¡lo que consideres!
 
-- Puedas inspeccionar y replicar el diseño.
-- Para que, en caso de que alguna parte del enunciado no la tengas clara, puedas analizar y probar tantas veces como necesites
+Por otro lado, hemos desarrollado la prueba completa para que, en caso de que alguna parte del enunciado no la tengas clara, puedas analizar y probar el comportamiento esperado tantas veces como necesites:
 
 [https://adopter.vercel.app](https://adopter.vercel.app)
 
